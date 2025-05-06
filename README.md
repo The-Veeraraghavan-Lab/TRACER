@@ -1,11 +1,10 @@
 ### TRACER
 ### Tumor aware recurrent inter‐patient deformable image registration of computed tomography scans with lung cancer
+![image](https://github.com/user-attachments/assets/38c96ada-6ac3-4f8c-80f3-9f8084b6a455)
+
 Code for TRACER Deformable image registration method
 The code for the paper, **Tumor aware recurrent inter-patient deformable image registration of computed tomography scans with lung cancer**, by Jue Jiang, Chloe Min-Seo Choi, Maria Thor, Joseph O. Deasy, and Harini Veeraraghavan published in the Medical Physics, 2024 is here. 
 The paper is available https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.17536 and https://arxiv.org/abs/2409.11910
-
-
-![image](https://github.com/user-attachments/assets/38c96ada-6ac3-4f8c-80f3-9f8084b6a455)
 
 
 
