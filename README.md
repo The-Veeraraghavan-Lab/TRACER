@@ -5,6 +5,7 @@ The code for the paper, **Tumor aware recurrent inter-patient deformable image r
 The paper is available https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.17536 and https://arxiv.org/abs/2409.11910
 
 
+![image](https://github.com/user-attachments/assets/38c96ada-6ac3-4f8c-80f3-9f8084b6a455)
 
 
 
